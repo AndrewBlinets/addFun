@@ -10,7 +10,7 @@
     <groupId>ru.bgerp.backend</groupId>
     <artifactId>demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>pom</packaging>
     <name>demo</name>
     <description>Demo project for Spring Boot</description>
     <properties>
